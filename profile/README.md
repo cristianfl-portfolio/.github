@@ -30,7 +30,7 @@ I'm a **Backend & Data Software Engineer** with a dual degree in Computer Scienc
 
 ### Featured Portfolio Projects
 * <a href="https://cheminformatics.urv.cat/plii-atlas">**PLII Atlas:**</a> Developed a high-performance backend API featuring a custom Domain-Specific Language (DSL) parser and full-text search engine to query complex scientific datasets. Deployed via Docker Compose. 
-* <a href="https://github.com/orgs/cristianfl-portfolio/classical-vs-deep-face-recognition">**Face Recognition:**</a> A comparison between classical (HOG, PCA and SIFT features) and modern (deep learning) techniques.
+* <a href="https://github.com/cristianfl-portfolio/classical-vs-deep-face-recognition">**Face Recognition:**</a> A comparison between classical (HOG, PCA and SIFT features) and modern (deep learning) techniques.
 
 
 ### Tech Stack & Architecture
